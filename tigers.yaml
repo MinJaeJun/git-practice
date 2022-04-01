@@ -1,8 +1,12 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Kenneth
 
 coach: Grace
+=======
+manager: Deborah
+>>>>>>> conflict-1
 
 members:
 - Linda
